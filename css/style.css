@@ -1,0 +1,36 @@
+﻿@charset "utf-8";
+.bt_entrar { width:100px; height:29px; background:url(../img/botao_entrar.png) no-repeat ; cursor:pointer; border:none;}
+.bt_cadastrar { width:100px; height:29px; background:url(../img/botao_cadastrar.png) no-repeat ; cursor:pointer; border:none; left:auto;}
+.bt_cadastrar1 { width:100px; height:34px; background:url(../img/botao_cadastrar1.png) no-repeat ; cursor:pointer; border:none; left:auto;}
+.bt_voltar { width:94px; height:32px; background:url(../img/botao_voltar.png) no-repeat ; cursor:pointer; border:none; left:auto;}
+.bt_foto { width:94px; height:29px; background:url(../img/botao_foto.png) no-repeat ; cursor:pointer; border:none; left:auto;}
+.bt_print_reg { width:155px; height:34px; background:url(../img/botao_imprimir.png) no-repeat ; cursor:pointer; border:none;}
+.bt_pdf { width:45px; height:45px; background:url(../img/botao_pdf.png) no-repeat ; cursor:pointer; border:none;}
+.bt_enviar { width:93px; height:29px; background:url(../img/botao_enviar.png) no-repeat ; cursor:pointer; border:none;}
+.bt_resgate { width:201px; height:88px; background:url(../img/botao_resgate.png) no-repeat ; cursor:pointer; border:none;}
+.bt_extrato { width:192px; height:59px; background:url(../img/botao_extrato.png) no-repeat ; cursor:pointer; border:none;}
+.bt_ok { width:66px; height:25px; background:url(../img/botao_ok.png) no-repeat ; cursor:pointer; border:none;}
+.bt_ranking_procurar { width:95px; height:28px; background:url(../img/botao_ranking_procurar.png) no-repeat ; cursor:pointer; border:none;}
+.bt_fale_conosco { width:107px; height:29px; background:url(../img/botao_fale_conosco.png) no-repeat ; cursor:pointer; border:none;}
+.bt_enviar_altera_cad { width:93px; height:29px; background:url(../img/botao_enviar.png) no-repeat ; cursor:pointer; border:none;}
+img {       background: transparent;     -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)"; /* IE8 */     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);   /* IE6 & 7 */     zoom: 1; }
+/* Div de controle dos botões do formulário */
+#botoes {
+	margin: 0px 0px 0px 145px;
+	}
+
+.class_regulamento { width:390px; display:block; float:left; height:265px; margin:200px 0 0 120px; padding:0; overflow:hidden; background-color:#CCC; }
+.class_regulamento1 { width:390px; display:block; float:left; height:280px; margin:0px 0 0 0px; padding:0; overflow:hidden; }
+.class_regulamento2 { width:510px; display:block; float:left; height:280px; margin:0px 0 0 0px; padding:0; overflow:auto; }
+.sub_regulamento { width:375px; display:block; float:left; height:265px; margin:0px 0px 0 15px; padding:0; overflow:auto; font-family:verdana; font-size: 10px; color:#333; text-align:left;}
+
+.menu { width:1010px; display:block; float:left; height:140px; margin:0px 0 0 0px; padding:0; overflow:auto; }
+
+.home { width:820px; display:block; float:left; height:670px; margin:-10px 0 0 105px; padding:0; overflow:auto; }
+.a_campanha { width:821px; display:block; float:left; height:729px; margin:-10px 0 0 105px; padding:0; overflow:hidden; }
+.ranking { width:821px; display:block; float:left; height:820px; margin:-10px 0 0 105px; padding:0; overflow:hidden; z-index:0; }
+.premios { width:821px; display:block; float:left; height:550px; margin:-10px 0 0 105px; padding:0; overflow:hidden; }
+.fale { width:821px; display:block; float:left; height:550px; margin:-10px 0 0 105px; padding:0; overflow:hidden; }
+.regulamento { width:520px; display:block; float:left; height:300px; margin:2px 0 0 0; padding:0; overflow:auto; }
+
+.uf { width:70px; display:block; float:left; height:20px; margin:0px 0 0 10px; padding:0; overflow:auto; }
